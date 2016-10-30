@@ -24,7 +24,7 @@ Uses a photogrammetry point cloud, to reconstruct the west front first reducing 
 
 # Installation
 
-As with MCEdit-Unified, it is recommended to use virtualenv to keep dependencies sane and for easy deployment. You'll need Python 2.7 (Python 3 is not supported) at a minimum before getting started. Easy_install / pip is reccommended.
+As with MCEdit-Unified, it is recommended to use virtualenv to keep dependencies sane and for easy deployment. You'll need Python 2.7 (Python 3 is not supported) at a minimum before getting started. Easy_install / pip is recommended.
 
 Clone data-driven-minecraft using your github client of choice:
 
@@ -34,7 +34,7 @@ Or, if you've already cloned data-driven-minecraft in the past and need to updat
 
 `>git pull`
 
-Optionally (but highly recommended), setup and activate [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/) and virtualenvwrapper. virtualenv will simplify development by creating an isolated and barebones Python environment. Anything you install while virtualenv is active won't affect your system-wide Python installation, for example.
+Optionally (but highly recommended), setup and activate [virtualenv and virtualenvwrapper](http://docs.python-guide.org/en/latest/dev/virtualenvs/). virtualenv will simplify development by creating an isolated and barebones Python environment. Anything you install while virtualenv is active won't affect your system-wide Python installation, for example.
 
 `>cd data-driven-minecraft`
 <br>
