@@ -26,6 +26,9 @@ scripts-pyinstaller
 pymclevel/_nbt.html
 pyinstaller-develop
 
+# Outputs
+outputs/
+
 *.egg-info/
 .installed.cfg
 *.egg

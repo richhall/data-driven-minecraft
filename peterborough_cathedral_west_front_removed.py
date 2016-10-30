@@ -2,7 +2,7 @@ import sys
 import logging
 import os
 import shutil
-import Image
+from PIL import Image
 from pymclevel import mclevel
 from pymclevel.mclevelbase import PlayerNotFound
 #from pymclevel import pocket
