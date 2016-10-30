@@ -7,16 +7,19 @@ It contains some python scripts to help anyone trying to combine data with minec
 ## peterborough_cathedral_from_lidar_dsm_dtm.py
 
 Uses environment agency LiDAR data to model Peterborough Cathedral in sandstone.
+
 `>python peterborough_cathedral_from_lidar_dsm_dtm.py`
 
 ## peterborough_cathedral_west_front_removed.py
 
 Uses environment agency LiDAR data to model a second Peterborough Cathedral in sandstone with the west front blocks removed.
+
 `>python peterborough_cathedral_west_front_removed.py`
 
 ## peterborough_cathedral_west_front_from_point_cloud.py
 
 Uses a photogrammetry point cloud, to reconstruct the west front first reducing the number of points by rounding each point to the nearest metre.
+
 `>python peterborough_cathedral_west_front_removed.py`
 
 # Installation
